@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Samuel A.</h1>
-<h3 align="center">A frontend developer in training from India</h3>
+<h3 align="center">A frontend developer in training</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quest82" alt="quest82" /></a> </p>
 
